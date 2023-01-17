@@ -22,7 +22,7 @@ Discord bot on Python. Do u know about this?
 Install a discord and add bot in your server
 
 ```sh
-*link*
+[*link*](https://discord.com/api/oauth2/authorize?client_id=1064935225030869043&permissions=8&scope=bot)
 ```
 
 ## Commands (yee)
