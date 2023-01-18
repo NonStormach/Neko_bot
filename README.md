@@ -36,3 +36,5 @@ Any commands start with "!"
 |  !game | You see all games in the bot |
 | !frr | Secret command<3 |
 ## See about new updates up(●'◡'●)
+## Creator
+Stormach (developer)
